@@ -1,5 +1,7 @@
 # mermaid
 
+* 線上使用 mermaid -- https://mermaid.live/
+
 ## stateDiagram
 
 ```
